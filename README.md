@@ -29,6 +29,6 @@ This script is intended for educational purposes only. Use at your own risk. Usi
 
 1. Open Logitech Gaming Software or G Hub.
 2. Select your mouse and go to the scripting section.
-3. Paste the contents of `recoil_script.lua`.
+3. Paste the contents of `script.lua`.
 4. Save and assign the script to a profile.
 5. Enable Caps Lock in-game to activate.
